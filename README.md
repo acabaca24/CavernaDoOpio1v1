@@ -16,7 +16,9 @@
     - **Winners Bracket**: Jogadores que ganham continuam avançando.
     - **Losers Bracket**: Jogadores que perdem na chave dos vencedores têm uma segunda chance na Losers Bracket.
   - Partidas até as **finais** serão disputadas em **Melhor de 1**.
+  - O jogador com maior numero de pontos na fase 1 do torneio escolhe o lado do mapa em que quer jogar.
   - As **grandes finais** serão disputadas em **Melhor de 3**.
+  - Nas grandes finais, o vencedor da winner's backet a escolher o lado na primeira ronda. Após disso o derrotado da ronda anterior, escolhe o lado.
 
 ### Taxa de Inscrição
 
